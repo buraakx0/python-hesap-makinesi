@@ -1,3 +1,5 @@
+# Lütfen iznim olmadan herhangi bir platformda paylaşmayın ve ya kullanmayınız. Zaten çok kolay bir proje herkesin yapabileceğini düşünüyorum :). 
+
 print("-" * 40)
 print("Hesap Makinesine Hoşgeldiniz.")
 print("-" * 40)
@@ -36,3 +38,5 @@ elif islem == 4:
     sonuc = sayi // sayi1 # // kullanmamızın nedeni sonucun ondalıklı değilde tam sayı olarak çıkmasıdır.
 
     print("Bölme İşlemi Sonucunuz: ",sonuc)
+
+# Lütfen iznim olmadan herhangi bir platformda paylaşmayın ve ya kullanmayınız. Zaten çok kolay bir proje herkesin yapabileceğini düşünüyorum :).
